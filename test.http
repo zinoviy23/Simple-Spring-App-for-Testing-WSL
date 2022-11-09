@@ -1,2 +1,8 @@
 ###
 GET http://localhost:8080/hello/Sashka
+
+###
+GET http://localhost:8080/csv
+
+###
+GET http://localhost:8080/csv-non-utf8
